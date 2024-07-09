@@ -4,8 +4,8 @@
 import React, { useState } from "react";
 import Header from "./components/Header";
 import Main from "./components/Main";
-import Footer from "./components/Footer";
 import data from "./data.json";
+import Carousel from "./components/Carousel";
 
 import "./index.css";
 
@@ -35,15 +35,22 @@ export const App = () => {
 
   return (
     <div className="App">
-      <Header generateRandomNumber={generateRandomNumber} />
-      <Main
-        randomQuestion={data.questions[randomNumber]}
-        showQuestion={showQuestion}
-        setShowQuestion={setShowQuestion}
-        showAnswer={showAnswer}
-        setShowAnswer={setShowAnswer}
-      />
-      <Footer generateRandomNumber={generateRandomNumber} />
+      <Header />
+      <div className="HomePage">
+        <div className="MainLeft">
+          <Main
+            randomQuestion={data.questions[randomNumber]}
+            showQuestion={showQuestion}
+            setShowQuestion={setShowQuestion}
+            showAnswer={showAnswer}
+            setShowAnswer={setShowAnswer}
+            generateRandomNumber={generateRandomNumber}
+          />
+        </div>
+        <div className="MainRight">
+          <Carousel />
+        </div>
+      </div>
     </div>
   );
 };

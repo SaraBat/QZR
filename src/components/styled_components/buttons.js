@@ -34,10 +34,10 @@ export const StyledAnswerButton = styled.button`
 `;
 
 export const StyledNextButton = styled.button`
-  background-color: transparent;
+  flex: none;
+  background-color: #fbf334;
   border-radius: 12px;
   border: none;
-  box-sizing: border-box;
   color: black;
   cursor: pointer;
   display: inline-block;
@@ -45,19 +45,14 @@ export const StyledNextButton = styled.button`
     sans-serif;
   font-size: 18px;
   font-weight: 500;
-  position: relative;
   text-align: center;
   transition: color 100ms;
-  vertical-align: baseline;
   user-select: none;
   list-style: none;
   outline: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  &:hover {
-    background-color: #fbf334;
-  }
-  ,
+  &:hover,
   &:focus {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
   }

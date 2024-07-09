@@ -1,9 +1,11 @@
+/* eslint-disable import/no-duplicates */
 /* eslint-disable react/jsx-closing-bracket-location */
 /* eslint-disable comma-dangle */
 /* eslint-disable quotes */
 /* eslint-disable max-len */
 import React from "react";
 import { StyledAnswerButton } from "./styled_components/buttons.js";
+import { StyledNextButton } from "./styled_components/buttons.js";
 import {
   StyledCard,
   StyledH2,
@@ -18,6 +20,7 @@ const FlashCard = ({
   setShowQuestion,
   showAnswer,
   setShowAnswer,
+  generateRandomNumber,
 }) => {
   // Function to toggle showing answer
   const toggleAnswer = () => {
@@ -41,6 +44,10 @@ const FlashCard = ({
     }, 500); // Duration of the animation in milliseconds
   };
 
+  const handleNextQuestion = () => {
+    generateRandomNumber(); // call the generateRandomNumber function when the button is clicked
+  };
+
   return (
     <>
       {showQuestion && (
@@ -55,6 +62,17 @@ const FlashCard = ({
             <StyledAnswerButton type="button" onClick={toggleAnswer}>
               ⇨
             </StyledAnswerButton>
+            <StyledNextButton
+              type="button"
+              onClick={handleNextQuestion}
+              style={{
+                fontSize: "25px",
+                fontStyle: "bold",
+                padding: "14px 20px",
+              }}
+            >
+              ProssimƏ
+            </StyledNextButton>
           </StyledCard>
         </div>
       )}
@@ -76,6 +94,17 @@ const FlashCard = ({
             >
               ⇦
             </StyledAnswerButton>
+            <StyledNextButton
+              type="button"
+              onClick={handleNextQuestion}
+              style={{
+                fontSize: "25px",
+                fontStyle: "bold",
+                padding: "14px 20px",
+              }}
+            >
+              ProssimƏ
+            </StyledNextButton>
           </StyledCard>
         </div>
       )}

@@ -30,6 +30,26 @@ code {
   background: white;
 }
 
+.HomePage {
+  display: flex;
+  flex-direction: column;
+  @media (min-width: 769px) {
+    flex-direction: row;
+  }
+}
+
+.MainLeft {
+  @media (min-width: 769px) {
+    width: 50%;
+  }
+}
+
+.MainRight {
+  @media (min-width: 769px) {
+    width: 50%;
+  }
+}
+
 a {
   text-decoration: none;
   color: white;

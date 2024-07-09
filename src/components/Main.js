@@ -26,6 +26,7 @@ const Main = ({
   randomQuestion,
   showAnswer,
   setShowAnswer,
+  generateRandomNumber,
 }) => {
   return (
     <StyledMain>
@@ -36,6 +37,7 @@ const Main = ({
         setShowAnswer={setShowAnswer}
         answer={randomQuestion.answer}
         question={randomQuestion.question}
+        generateRandomNumber={generateRandomNumber}
       />
     </StyledMain>
   );
