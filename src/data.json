@@ -1,0 +1,252 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quali sono i tipi comuni di collezionabili?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "I tipi comuni di collezionabili includono francobolli, monete, carte da collezione, fumetti e action figures."
+        },
+        {
+          "page": "page2",
+          "content": "Altri collezionabili popolari includono giocattoli vintage, libri rari, autografi, memorabilia sportive e stampe artistiche."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Cosa rende un collezionabile prezioso?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Il valore di un collezionabile è determinato dalla sua rarità, condizione, età, domanda e significato storico."
+        },
+        {
+          "page": "page2",
+          "content": "Gli oggetti con una produzione limitata o che non sono più disponibili spesso hanno un valore maggiore."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quali sono alcuni esempi di oggetti da collezione rari?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Esempi di oggetti da collezione rari includono francobolli come il Penny Black, monete come il Double Eagle del 1933 e carte da collezione come la carta di Charizard di prima edizione."
+        },
+        {
+          "page": "page2",
+          "content": "Altri esempi includono fumetti come Action Comics #1, che segna la prima apparizione di Superman, e giocattoli come le action figures di Star Wars prodotte negli anni '70."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Come si può valutare un oggetto da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Per valutare un oggetto da collezione, è importante considerare la sua rarità, condizione, autenticità e domanda di mercato."
+        },
+        {
+          "page": "page2",
+          "content": "Consultare esperti o utilizzare guide di riferimento e cataloghi può aiutare a determinare il valore di un oggetto."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Cosa significa il termine 'condizione' in riferimento ai collezionabili?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Il termine 'condizione' si riferisce allo stato fisico di un oggetto da collezione, che può influenzarne il valore."
+        },
+        {
+          "page": "page2",
+          "content": "Condizioni comuni includono 'mint' (perfetto stato), 'near mint' (quasi perfetto), 'excellent' (eccellente), 'good' (buono) e 'poor' (povero)."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quali fattori possono influenzare la domanda di un oggetto da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "La domanda di un oggetto da collezione può essere influenzata dalla sua popolarità, rarità, condizione e tendenze di mercato."
+        },
+        {
+          "page": "page2",
+          "content": "Eventi storici, film, serie TV e celebrazioni possono anche aumentare l'interesse per certi oggetti."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Cosa sono le carte da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Le carte da collezione sono piccole carte stampate che spesso presentano immagini di personaggi, scene, o informazioni su vari temi, come sport, film, fumetti e giochi."
+        },
+        {
+          "page": "page2",
+          "content": "Queste carte sono spesso raccolte, scambiate e vendute tra collezionisti."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual è l'importanza dell'autenticità per i collezionabili?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "L'autenticità è cruciale per i collezionabili perché garantisce che l'oggetto sia genuino e non una riproduzione o falso."
+        },
+        {
+          "page": "page2",
+          "content": "Certificati di autenticità e la verifica da parte di esperti possono aumentare significativamente il valore di un oggetto."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Come conservare al meglio gli oggetti da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Gli oggetti da collezione dovrebbero essere conservati in un ambiente controllato, lontano da luce diretta, umidità e temperature estreme."
+        },
+        {
+          "page": "page2",
+          "content": "L'uso di custodie protettive, scatole e armadi climatizzati può aiutare a preservare la condizione degli oggetti."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Cosa sono i francobolli da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "I francobolli da collezione sono francobolli postali che vengono raccolti per il loro valore storico, artistico o di rarità."
+        },
+        {
+          "page": "page2",
+          "content": "Collezionare francobolli è un hobby chiamato filatelia."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Qual è il ruolo delle edizioni limitate nei collezionabili?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Le edizioni limitate sono produzioni di oggetti da collezione in quantità limitata, che spesso aumentano di valore a causa della loro rarità."
+        },
+        {
+          "page": "page2",
+          "content": "Gli oggetti in edizione limitata sono molto ricercati dai collezionisti."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Cosa sono i memorabilia sportive?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "I memorabilia sportive sono oggetti legati a eventi sportivi, atleti o squadre, come maglie autografate, palloni, poster e biglietti di partite."
+        },
+        {
+          "page": "page2",
+          "content": "Questi oggetti sono spesso raccolti da appassionati di sport e collezionisti."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Quali sono i vantaggi di collezionare oggetti?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Collezionare oggetti può essere un'attività gratificante che offre piacere personale, apprendimento storico e opportunità di investimento."
+        },
+        {
+          "page": "page2",
+          "content": "Può anche favorire la socializzazione con altri collezionisti attraverso fiere, mostre e club di collezionismo."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Qual è la differenza tra un collezionista e un accumulatore?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Un collezionista raccoglie oggetti in modo organizzato e con uno scopo specifico, spesso focalizzandosi su qualità e rarità."
+        },
+        {
+          "page": "page2",
+          "content": "Un accumulatore tende a raccogliere oggetti senza un piano specifico, spesso accumulando grandi quantità di cose senza considerare il loro valore o condizione."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Come iniziare una collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Per iniziare una collezione, è utile scegliere un tema o tipo di oggetto che interessa, come monete, francobolli, o giocattoli."
+        },
+        {
+          "page": "page2",
+          "content": "Ricercare e imparare il più possibile sugli oggetti di interesse, stabilire un budget e iniziare a cercare i primi pezzi nei negozi, mercatini, fiere e online."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Qual è il valore di mercato di un oggetto da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "Il valore di mercato di un oggetto da collezione può variare ampiamente a seconda della sua rarità, condizione, domanda e autenticità."
+        },
+        {
+          "page": "page2",
+          "content": "È importante consultare fonti di riferimento, esperti e mercati online per avere una stima accurata del valore."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Cosa sono i giocattoli vintage da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "I giocattoli vintage da collezione sono giocattoli prodotti molti anni fa e che oggi sono ricercati per il loro valore storico, nostalgia e rarità."
+        },
+        {
+          "page": "page2",
+          "content": "Esempi comuni includono le action figures degli anni '70 e '80, le bambole antiche e i modellini di automobili."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Come si preservano i libri rari da collezione?",
+      "answer": [
+        {
+          "page": "page1",
+          "content": "I libri rari da collezione dovrebbero essere conservati in un ambiente a temperatura e umidità controllata, lontano dalla luce diretta del sole."
+        }
+      ]
+    }
+  ]
+}
