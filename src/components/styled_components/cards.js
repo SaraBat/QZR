@@ -20,8 +20,9 @@ const flipVerticalLeft = keyframes`
 `;
 
 export const StyledCard = styled.div`
-  background-color: ${(props) => (props.showAnswer ? "#fbf334" : "#3a3993")};
+  background-color: ${(props) => (props.showAnswer ? "#ffffff" : "#fbf334")};
   border-radius: 25px;
+  border-color: #3a3993;
   color: "black";
   text-align: center;
   padding: 2rem;

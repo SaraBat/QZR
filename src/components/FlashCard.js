@@ -53,7 +53,7 @@ const FlashCard = ({
             <StyledH2>?</StyledH2>
             <StyledH3>{question}</StyledH3>
             <StyledAnswerButton type="button" onClick={toggleAnswer}>
-              See answer
+              ⇨
             </StyledAnswerButton>
           </StyledCard>
         </div>
@@ -74,7 +74,7 @@ const FlashCard = ({
               onClick={goBackToQuestion}
               style={{ margin: "10px" }}
             >
-              See question
+              ⇦
             </StyledAnswerButton>
           </StyledCard>
         </div>

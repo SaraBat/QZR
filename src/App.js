@@ -43,7 +43,7 @@ export const App = () => {
         showAnswer={showAnswer}
         setShowAnswer={setShowAnswer}
       />
-      <Footer />
+      <Footer generateRandomNumber={generateRandomNumber} />
     </div>
   );
 };

@@ -34,34 +34,30 @@ export const StyledAnswerButton = styled.button`
 `;
 
 export const StyledNextButton = styled.button`
-  background-color: #fbf334;
-  height: 150px;
-  width: 150px;
+  background-color: transparent;
   border-radius: 12px;
   border: none;
   box-sizing: border-box;
-  color: #ffffff;
+  color: black;
   cursor: pointer;
   display: inline-block;
   font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
   font-size: 18px;
   font-weight: 500;
-  padding: 2px;
   position: relative;
-  top: 20px;
   text-align: center;
-  text-decoration: none;
   transition: color 100ms;
   vertical-align: baseline;
   user-select: none;
-  line-height: 20px;
   list-style: none;
-  margin: 0;
   outline: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  &:hover,
+  &:hover {
+    background-color: #fbf334;
+  }
+  ,
   &:focus {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
   }

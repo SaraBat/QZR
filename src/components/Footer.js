@@ -32,7 +32,7 @@ const Footer = ({ generateRandomNumber }) => {
         onClick={handleNextQuestion}
         style={{ fontSize: "25px", fontStyle: "bold", padding: "14px 20px" }}
       >
-        Next question
+        ProssimƏ
       </StyledNextButton>
     </StyledFooter>
   );
